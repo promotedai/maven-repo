@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <metadata modelVersion="1.1.0">
-  <groupId>ai.promoted</groupId>
+  <groupId>org.apache</groupId>
   <artifactId>paimon-flink-1.18</artifactId>
   <versioning>
-    <lastUpdated>20240604213500</lastUpdated>
+    <lastUpdated>20240604223834</lastUpdated>
     <snapshot>
       <localCopy>true</localCopy>
     </snapshot>
@@ -11,12 +11,12 @@
       <snapshotVersion>
         <extension>jar</extension>
         <value>0.9-xccui-SNAPSHOT</value>
-        <updated>20240604213500</updated>
+        <updated>20240604223834</updated>
       </snapshotVersion>
       <snapshotVersion>
         <extension>pom</extension>
         <value>0.9-xccui-SNAPSHOT</value>
-        <updated>20240604213500</updated>
+        <updated>20240604223834</updated>
       </snapshotVersion>
     </snapshotVersions>
   </versioning>
