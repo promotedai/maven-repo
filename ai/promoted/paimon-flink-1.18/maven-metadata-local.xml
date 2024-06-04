@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>ai.promoted</groupId>
+  <artifactId>paimon-flink-1.18</artifactId>
+  <versioning>
+    <versions>
+      <version>0.9-xccui-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20240604213500</lastUpdated>
+  </versioning>
+</metadata>
