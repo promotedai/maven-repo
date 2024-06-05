@@ -3,7 +3,7 @@
   <groupId>org.apache.paimon</groupId>
   <artifactId>paimon-flink</artifactId>
   <versioning>
-    <lastUpdated>20240605035022</lastUpdated>
+    <lastUpdated>20240607141023</lastUpdated>
     <snapshot>
       <localCopy>true</localCopy>
     </snapshot>
@@ -11,7 +11,7 @@
       <snapshotVersion>
         <extension>pom</extension>
         <value>0.9-xccui-SNAPSHOT</value>
-        <updated>20240605035022</updated>
+        <updated>20240607141023</updated>
       </snapshotVersion>
     </snapshotVersions>
   </versioning>
