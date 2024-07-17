@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata modelVersion="1.1.0">
+  <groupId>org.apache.paimon</groupId>
+  <artifactId>paimon-parent</artifactId>
+  <versioning>
+    <lastUpdated>20240717161511</lastUpdated>
+    <snapshot>
+      <localCopy>true</localCopy>
+    </snapshot>
+    <snapshotVersions>
+      <snapshotVersion>
+        <extension>pom</extension>
+        <value>0.9.1-xccui-SNAPSHOT</value>
+        <updated>20240717161511</updated>
+      </snapshotVersion>
+    </snapshotVersions>
+  </versioning>
+  <version>0.9.1-xccui-SNAPSHOT</version>
+</metadata>
