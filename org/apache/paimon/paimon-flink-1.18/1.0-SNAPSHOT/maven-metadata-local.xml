@@ -3,7 +3,7 @@
   <groupId>org.apache.paimon</groupId>
   <artifactId>paimon-flink-1.18</artifactId>
   <versioning>
-    <lastUpdated>20241030202710</lastUpdated>
+    <lastUpdated>20241101154458</lastUpdated>
     <snapshot>
       <localCopy>true</localCopy>
     </snapshot>
@@ -11,12 +11,12 @@
       <snapshotVersion>
         <extension>jar</extension>
         <value>1.0-SNAPSHOT</value>
-        <updated>20241030202710</updated>
+        <updated>20241101154458</updated>
       </snapshotVersion>
       <snapshotVersion>
         <extension>pom</extension>
         <value>1.0-SNAPSHOT</value>
-        <updated>20241030202710</updated>
+        <updated>20241101154458</updated>
       </snapshotVersion>
     </snapshotVersions>
   </versioning>
