@@ -3,7 +3,7 @@
   <groupId>org.apache.paimon</groupId>
   <artifactId>paimon-service</artifactId>
   <versioning>
-    <lastUpdated>20241101203620</lastUpdated>
+    <lastUpdated>20241215221005</lastUpdated>
     <snapshot>
       <localCopy>true</localCopy>
     </snapshot>
@@ -11,7 +11,7 @@
       <snapshotVersion>
         <extension>pom</extension>
         <value>1.0-SNAPSHOT</value>
-        <updated>20241101203620</updated>
+        <updated>20241215221005</updated>
       </snapshotVersion>
     </snapshotVersions>
   </versioning>
