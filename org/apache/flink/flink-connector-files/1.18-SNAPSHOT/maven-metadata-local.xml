@@ -3,7 +3,7 @@
   <groupId>org.apache.flink</groupId>
   <artifactId>flink-connector-files</artifactId>
   <versioning>
-    <lastUpdated>20250212173210</lastUpdated>
+    <lastUpdated>20250212175202</lastUpdated>
     <snapshot>
       <localCopy>true</localCopy>
     </snapshot>
@@ -11,12 +11,12 @@
       <snapshotVersion>
         <extension>jar</extension>
         <value>1.18-SNAPSHOT</value>
-        <updated>20250212173210</updated>
+        <updated>20250212175202</updated>
       </snapshotVersion>
       <snapshotVersion>
         <extension>pom</extension>
         <value>1.18-SNAPSHOT</value>
-        <updated>20250212173210</updated>
+        <updated>20250212175202</updated>
       </snapshotVersion>
     </snapshotVersions>
   </versioning>

@@ -3,7 +3,7 @@
   <groupId>org.apache.flink</groupId>
   <artifactId>flink-parent</artifactId>
   <versioning>
-    <lastUpdated>20250212173212</lastUpdated>
+    <lastUpdated>20250212175205</lastUpdated>
     <snapshot>
       <localCopy>true</localCopy>
     </snapshot>
@@ -11,7 +11,7 @@
       <snapshotVersion>
         <extension>pom</extension>
         <value>1.18-SNAPSHOT</value>
-        <updated>20250212173212</updated>
+        <updated>20250212175205</updated>
       </snapshotVersion>
     </snapshotVersions>
   </versioning>

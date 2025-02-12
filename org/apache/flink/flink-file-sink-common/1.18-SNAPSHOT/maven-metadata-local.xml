@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <metadata modelVersion="1.1.0">
   <groupId>org.apache.flink</groupId>
-  <artifactId>flink-connector-base</artifactId>
+  <artifactId>flink-file-sink-common</artifactId>
   <versioning>
-    <lastUpdated>20250212175200</lastUpdated>
+    <lastUpdated>20250212175203</lastUpdated>
     <snapshot>
       <localCopy>true</localCopy>
     </snapshot>
@@ -11,12 +11,12 @@
       <snapshotVersion>
         <extension>jar</extension>
         <value>1.18-SNAPSHOT</value>
-        <updated>20250212175200</updated>
+        <updated>20250212175203</updated>
       </snapshotVersion>
       <snapshotVersion>
         <extension>pom</extension>
         <value>1.18-SNAPSHOT</value>
-        <updated>20250212175200</updated>
+        <updated>20250212175203</updated>
       </snapshotVersion>
     </snapshotVersions>
   </versioning>
