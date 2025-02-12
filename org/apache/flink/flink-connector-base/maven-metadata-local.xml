@@ -1,12 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <metadata>
   <groupId>org.apache.flink</groupId>
-  <artifactId>flink-parent</artifactId>
+  <artifactId>flink-connector-base</artifactId>
   <versioning>
     <versions>
-      <version>2.0-SNAPSHOT</version>
       <version>1.18-SNAPSHOT</version>
     </versions>
-    <lastUpdated>20250212170439</lastUpdated>
+    <lastUpdated>20250212170437</lastUpdated>
   </versioning>
 </metadata>
